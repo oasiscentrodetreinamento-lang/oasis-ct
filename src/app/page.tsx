@@ -361,7 +361,7 @@ export default function Home() {
             <Activity className="h-10 w-10 text-yellow-500" />
             <h1 className="text-4xl font-bold text-gray-800">OÁSIS CT</h1>
           </div>
-          <p className="text-xl text-gray-600">Sistema de Avaliação Físico-Funcional</p>
+          <p className="text-xl text-gray-600">Sistema de Avaliação FísicoFuncional</p>
         </div>
 
         {/* Tabs */}
